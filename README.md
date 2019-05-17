@@ -12,7 +12,7 @@ sudo apt-get -y upgrade
 STEP 3
 sudo apt-get install python3-pip
 INSTALL DEPENDENCIES USING PIP3
-pip3 install -U pyyaml==3.13
+pip3 install -U pyyaml==3.13 or pip3 install pyymal==3.23
 
 
 apt-get install python3-setuptools
