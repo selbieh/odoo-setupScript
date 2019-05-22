@@ -10,19 +10,17 @@ sudo apt-get update
 STEP 2
 sudo apt-get -y upgrade
 STEP 3
-sudo apt-get install python3-pip
+sudo apt-get install python3-pip python3-setuptools libpq-dev python3-dev build-essential libssl-dev libffi-dev
+
+
 INSTALL DEPENDENCIES USING PIP3
-#pip3 install -U pyyaml==3.13 or pip3 install pyymal==3.23
+###pip3 install -U pyyaml==3.13 or pip3 install pyymal==3.23
 
 
-apt-get install python3-setuptools
-apt-get install libpq-dev python-dev
-pip3 install wheel
-pip3 install psycopg2-binary
-pip3 install psycopg2==2.7.1
 
 
-pip3 install Babel decorator docutils ebaysdk feedparser gevent greenlet html2text Jinja2 lxml Mako MarkupSafe mock num2words ofxparse passlib Pillow psutil psycogreen psycopg2 pydot pyparsing PyPDF2 pyserial python-dateutil python-openid pytz pyusb pyymal==3.23 qrcode reportlab requests six suds-jurko vatnumber vobject Werkzeug XlsxWriter xlwt xlrd phonenumbers
+
+pip3 install wheel psycopg2-binary psycopg2==2.7.1 Babel decorator paramiko docutils ebaysdk feedparser gevent greenlet html2text Jinja2 lxml Mako MarkupSafe mock num2words ofxparse passlib Pillow psutil psycogreen psycopg2 pydot pyparsing PyPDF2 pyserial python-dateutil python-openid pytz pyusb pyymal==3.23 qrcode reportlab requests six suds-jurko vatnumber vobject Werkzeug XlsxWriter xlwt xlrd phonenumbers
 
 
 STEP 4
