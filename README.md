@@ -20,7 +20,7 @@ INSTALL DEPENDENCIES USING PIP3
 
 
 
-pip3 install wheel psycopg2-binary psycopg2==2.7.1 Babel decorator paramiko docutils ebaysdk feedparser gevent greenlet html2text Jinja2 lxml Mako MarkupSafe mock num2words ofxparse passlib Pillow psutil psycogreen psycopg2 pydot pyparsing PyPDF2 pyserial python-dateutil python-openid pytz pyusb pyymal==3.23 qrcode reportlab requests six suds-jurko vatnumber vobject Werkzeug XlsxWriter xlwt xlrd phonenumbers
+pip3 install wheel psycopg2-binary psycopg2==2.7.1 Babel decorator paramiko docutils ebaysdk feedparser gevent greenlet html2text Jinja2 lxml Mako MarkupSafe mock num2words ofxparse passlib Pillow psutil psycogreen pydot pyparsing PyPDF2 pyserial python-dateutil python-openid pytz pyusb pyymal==3.23 qrcode reportlab requests six suds-jurko vatnumber vobject Werkzeug XlsxWriter xlwt xlrd phonenumbers
 
 
 STEP 4
